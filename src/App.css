@@ -1,0 +1,58 @@
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+body {
+  background-color: #333;
+}
+
+#safe {
+  background: #AFEEEE;
+}
+
+.card-title {
+  color: #FDF5E6;
+}
+
+#danger {
+  background: #FA8072;
+}
+.card-text {
+  color: black !important;
+  font-weight: bold !important;
+  font-style: italic;
+  font-size: 20px !important;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+div h2 {
+  display: block;
+  margin-left: 30%;
+  margin-right: 30%;
+  align-items: center;
+}
+
+li {
+  margin-left: 13%;
+  color: #BC8F8F;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #C71585;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
